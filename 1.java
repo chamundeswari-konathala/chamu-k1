@@ -4,6 +4,7 @@
 	public void display()
 	 {
 		 System.out.println("hai");
+		System.out.println("i am from future");
 		 
 	 }
 
