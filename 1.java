@@ -4,6 +4,8 @@
 	public void display()
 	 {
 		 System.out.println("hai");
+		 System.out.println("hai1");
+		
 		 
 	 }
 
